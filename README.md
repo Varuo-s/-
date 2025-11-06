@@ -18,3 +18,4 @@ libDexHelper.so /data/app/com.claro.xx/base.apk/lib/
 
 适用于64位系统因为修改的是64位的libDexHelper.so文件
 推测梆梆企业加固的应用通用
+**仅供学习与测试，禁止用于生产环境或非法用途。**
