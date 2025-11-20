@@ -21,6 +21,7 @@
 1. 拉取本仓库修改后的 `libDexHelper.so`
 2. 使用 **root 设备**，替换原应用中的同名文件：
 libDexHelper.so /data/app/com.xx.xx/lib/arm64
+
 3.并给予文件755权限
 
 适用于64位系统因为修改的是64位的libDexHelper.so文件
